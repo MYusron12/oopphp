@@ -1,0 +1,4 @@
+Inheritance
+- menciptakan hierarki antar kelas (parent class & child class)
+- child class mewarisi semua properti dan method dari parentnya (yang visible)
+- child class memperluas (extends) fungsionalitas dari parent nya

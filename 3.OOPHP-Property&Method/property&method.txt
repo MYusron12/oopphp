@@ -1,0 +1,39 @@
+property
+- sesuatu yang merepresentasikan data atau keadaan dari sebuah object
+- variable yang ada di dalam object (member variable)
+- sama seperti variable di dalam php di tambah dengan visibility di depannya
+
+method
+- merepresentasikan perilaku dari sebuah object
+- function yang da dalam object
+- sama seperti function di php dengan visibility depannya
+
+contoh sebuah mobil
+property : nama, merk, warn, kecepatan, jmlPenumpang
+method : tambahKecepatan, kurangiKecepatan, gantiTransmisi, belokKiri
+
+jika di representasikan ke dalam php
+<?php
+class Mobil {
+    public $nama,
+    public $merk,
+    public $warna,
+    public $kecepatanMaksimal,
+    public $jumlahPenumpang;
+
+    public function tambahKecepatan() {
+
+    }
+
+    public function kurangiKecepatan() {
+
+    }
+    
+    public function gantiTransmisi() {
+        
+    }
+}
+
+
+?>
+

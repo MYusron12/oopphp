@@ -1,0 +1,46 @@
+Harus peaham tentang prosedural prgramming (php native)
+
+karakteristik prosdual programming
+- instruksi dilakukan langkah demi langkah
+- memecah program menjadi bagian bagian kecil
+- disebut prosedur, subroutine atau function
+- prosedural programming disebut juga linear / atau top to bottom
+- fortran, algol, cobol, pascal, c, php, javascript.
+
+kenapa memilih gaya pemrograman prosedural
+kelebihan prosedural programming
+- to the point
+- simplicity & kemudahan implementsi untuk compiler dan interpreter
+- mudah ditelusuri
+- membutuuhhkan lebih sedikit memori dibandingkan dengan oop
+
+
+
+
+karakteristik object oriented programming
+- menyusun semua kode program dan struktur data sebagai object.
+- object merupakan unit dasar dari program
+- di dalam object kita dapat menyimpan deta dan prilaku
+- object bisa saling berinteraksi
+- java, ruby, python, c++, javascript, php5
+
+kelebihan oop 
+- representasi dunia nyata
+- enkapsulasi (memungkinkan data yang kita buat, aman) & abstraksi data (mudah untuk menyembunyikan kerumitan dari program)
+- reusability, mudah menggunakan ulang dari program yg sudah kita buat sebelumnya.
+- skalabilitas & ekstensibilitas.
+- kemudahan pengelolaan
+- kolaborasi
+- konsep oop digunakan di framework.
+
+
+bagus mana antara oop dan prosedural,
+tidak ada yang lebih bagus, karena masing masing punya fokusnya sendiri.
+
+
+
+
+
+
+
+

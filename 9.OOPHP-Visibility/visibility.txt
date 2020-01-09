@@ -1,0 +1,16 @@
+visibility atau access modifier
+
+visibility
+- sebuah konsep yang digunakan untuk mengatur akses dari property dan method pada sebuah object atau class
+- ada 3 keyword visibility : public, protected, dan private
+
+
+- public, adalah property dan method nya dapat digunakan dimana saja, bahkan diluar class itu sendiri. 
+- protected, adalah property dan methodnya hanya dapat digunakan di dalam sebuah class beserta turunannya.
+- private, property dan methodnya hanya dapat digunakan di dalam sebuah class tertentu saja.
+
+
+kenapa visibility
+- hanya memperlihatkan aspek dari class yang dibutuhkan oleh client saja
+- menetukan kebutuhan yang jelas untuk object
+- memberikan kendali pada kode untuk menghindari 'bug'.

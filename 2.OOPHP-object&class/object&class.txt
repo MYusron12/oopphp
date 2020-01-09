@@ -1,0 +1,33 @@
+class 
+- blueprint atau template untuk membuat instance dari object
+- class mendefinisikan object
+- menyimpan data dan perilaku yang disebut dengan property dan method
+
+cara buat class di php
+- diawali dengan menuliskan keyword class, diikuti nama dan dibatasi dengan {} untuk menyimpan property dan method
+- aturan penamaan class sama seperti variable
+<?php
+class Coba {
+    public $a; //property
+
+    //method
+    public function b(){
+
+    }
+}
+?>
+
+
+
+object
+- instance yang didefinisikan oleh class
+- banyak object dapat dibuat menggunakan satu class
+- object dibuat dengan menggunakan keyword new
+<?php
+class Coba{
+
+}
+//membuat object instance dari class
+$a = new Coba();
+$b = new Coba();
+?>

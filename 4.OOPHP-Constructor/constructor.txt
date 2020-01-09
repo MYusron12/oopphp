@@ -1,0 +1,1 @@
+constructor sebuah method yang spesial atau khusus yang ada dalam sebuah class, kenapa spesial karena method yang otomatis dijalankan ketika sebuah class di instansiasi
