@@ -1,0 +1,9 @@
+namespace
+adalah sebuah cara untuk mengelompokkan program ke dalam sebuah package tersendiri
+disebut juga encapsulation
+
+kenapa di kelompokkan
+- php tidak mengijinkan kita untuk memiliki 2 class dengan nama yang sama dalam sebuah program
+
+aturan untuk menulis namespace
+namespace Vendor\Namespace\SubNamespace;

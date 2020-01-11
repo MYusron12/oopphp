@@ -1,0 +1,46 @@
+Abstract class
+- sebuah class yang tidak dapat di instansiasi
+- class absract di instansiasi di turunannya
+- mendefinisikan interface untuk class lain yang menjadi turunannya
+- berperan sebagai kerangka dasar untuk kelas turunannya
+- harus memiliki minimal 1 method abstract
+-  dugunakan dalam pewarisan untuk memaksakan implementasi method abstract yang sama untuk semua class turunannya
+
+contoh kasus class abstract
+class Buah{
+    private $warba;
+
+    public function makan(){
+        //kunyah
+        //nyam.. nyam
+    }
+
+    public function setWarna($warna){
+        $this->warna = $warna;
+    }
+}
+
+class Apel extends Buah{
+    public function makan(){
+        //kunyah
+        //sampai bagian tengah
+    }
+}
+
+class Jeruk extends Buah{
+    public function makan(){
+        //kupas
+        //kunyah
+    }
+}
+
+
+contoh class abstract
+class Mobil extends Kendaraan
+
+kenapa harus class abstract
+- merepresentasikan ide atau konsep dasar
+- konsep composition over inheritance
+- salah satu cara menerapkan polimorphism
+- sentralisasi logic
+- mepermudah pengerjaan tim

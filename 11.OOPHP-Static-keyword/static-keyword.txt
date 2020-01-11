@@ -1,0 +1,13 @@
+class merupakan template dari object
+
+dan sebetulnya kita bisa mengakses property dan method dalam konteks class
+menggunakan static keyword.
+
+
+
+static keyword
+- member yang terkait dengan class, bukan dengan object
+- nilai static akan slalu tetap meskipun object di instansiasi berulang kali
+- dengan membuat static, seolah olah code kita menjadi procedural.
+- biasanya digunakan untuk membuat fungsi bantuan/helper
+- static juga biasa digunakan di class utility pada framework

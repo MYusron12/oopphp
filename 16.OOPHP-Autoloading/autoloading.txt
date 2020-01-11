@@ -1,0 +1,4 @@
+autoloading adlah proses pemanggilan class (file) tanpa harus menggunakan fungsi require
+
+fungsi untuk memanggil semua class
+spl_autoload_register();

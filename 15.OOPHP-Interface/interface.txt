@@ -1,0 +1,69 @@
+interface
+- adalah class abstract yang sama sekalai tidak memiliki implementasi
+- murni merupakan template untuk class turunannya
+- tidak boleh memiliki property, hanya deklarasi method saja
+- semua method harus di deklarasikan dengan visibility public
+- boleh mendeklarasikan __construct()
+- satu class boleh mengimplementasikan banyak interface
+- dengan menggunakan type-hinting dapat melakukan 'dependency injection'
+- pada akhirnya akan mencapai Polymorphism
+
+
+
+abstract class Buah {
+    private $warna;
+
+    abstarct public function makan();
+
+    public function setwarna($warna) {
+        $this->warna = $warna;
+    }
+}
+class Apel extends Buah {
+    public function makan() {
+        //kunyah
+        //sampai bagian tengah
+    }
+}
+class Jeruk extends Buah {
+    public function makan() {
+        //kupas
+        //kunyah
+    }
+}
+
+//cara menggunakan interface
+interface Buah {
+    public function makan();
+    public function setWarna($warna);
+}
+interface Benda {
+    public function setUkuran($ukuran);
+}
+class Apel implements Buah, Benda {
+    protected $warna;
+    protected $ukuran;
+    public function makan() {
+        //kunyah
+        //sampai bagian akhir
+    }
+    public function setWarna($warna) {
+        $this->warna = $warna;
+    }
+    public function setUkuran($ukuran) {
+        $this->ukuran = $ukuran;
+    }
+}
+class Jeruk implements Buah, Benda {
+    protected $warna;
+    public function makan() {
+        //kupas
+        //kunyah
+    }
+    public function setWarna($warna) {
+        $this->warna = $warna;
+    }
+    public function setUkuran($ukuran) {
+        $this->ukuran = $ukuran;
+    }
+}

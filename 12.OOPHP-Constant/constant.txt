@@ -1,0 +1,19 @@
+constant adalah sebuah identifier untuk menyimpan nilai.
+nilai yang kita simpan, tidak dapat berubah
+
+
+ada 2 cara membuat constant
+define()
+const
+
+Magic Constant
+__LINE__
+__FILE__
+__DIR__
+__FUNCTION__
+__CLASS__
+__TRAIT__
+
+
+
+
