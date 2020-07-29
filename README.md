@@ -39,11 +39,12 @@ Penggunaan setter dan getter terdapat pada saat kita menghindarai visibility pub
 <h3>11. Abstract Class</h3>
 <p><b>Abstract Class </b>merupakan sebuah class yg tidak dapat di instansiasi atau tidak dapat dibuat object, Lalu mendifinisikan interface untuk class yg menjadi turunannya, class abstract berperan sbg kerangka dasar untuk class turunan. Class abstarct memiliki minimal 1 method abstarct. Class abstract digunakan dalam pewarisan / inheritance untuk memaksakan implementasi method abstarct yg sama untuk class turunannya. Class abstract di awali keyword abstract berisi properti yg juga abstract. Semua class turunan harus mengimplementasi method abstarct yg ada di class abstract. Class abstract boleh memiliki property / method regular, serta static method. Konsep class abstract merepresentasikan ide atau konsep dasar pada object oriented programming. Dengan menggunakan class abstract dapat mempermudah pengerjaan tim serta sentra logic.</p>
 
+![carbon (1)](https://user-images.githubusercontent.com/50074126/88815870-054f7c80-d1e6-11ea-87de-3ec37ed10f6b.png)
 
 
 <br>
 <h3>12. Autoloding</h3>
-
+<p></p>
 <br>
 <h3>13. Namespace</h3>
 <br>
