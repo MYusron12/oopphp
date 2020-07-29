@@ -34,6 +34,10 @@ Penggunaan setter dan getter terdapat pada saat kita menghindarai visibility pub
 
 <br>
 <h3>10. Constant</h3>
+<p><b>Constant </b>merupakan sebuah identifier untuk menyimpan nilai, tetapi nilainya tidak dapat berubah ketika sudah di set dalam program. Penggunaan Constanta pada php menggunakan keyword <i>define()</i> diikuti dengan parameter nama konstanta serta valuenya atau bisa juga menggunakan keyword <i>const</i> </p>
+
+
+
 <br>
 <h3>11. Abstract Class</h3>
 <br>
