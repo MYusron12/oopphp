@@ -34,14 +34,16 @@ Penggunaan setter dan getter terdapat pada saat kita menghindarai visibility pub
 
 <br>
 <h3>10. Constant</h3>
-<p><b>Constant </b>merupakan sebuah identifier untuk menyimpan nilai, tetapi nilainya tidak dapat berubah ketika sudah di set dalam program. Penggunaan Constanta pada php menggunakan keyword <i>define()</i> diikuti dengan parameter nama konstanta serta valuenya atau bisa juga menggunakan keyword <i>const</i> </p>
-
-
-
+<p><b>Constant </b>merupakan sebuah identifier untuk menyimpan nilai, tetapi nilainya tidak dapat berubah ketika sudah di set dalam program. Penggunaan Constanta pada php menggunakan keyword <i>define()</i> diikuti dengan parameter nama konstanta serta valuenya atau bisa juga menggunakan keyword <i>const</i>.</p>
 <br>
 <h3>11. Abstract Class</h3>
+<p><b>Abstract Class </b>merupakan sebuah class yg tidak dapat di instansiasi atau tidak dapat dibuat object, Lalu mendifinisikan interface untuk class yg menjadi turunannya, class abstract berperan sbg kerangka dasar untuk class turunan. Class abstarct memiliki minimal 1 method abstarct. Class abstract digunakan dalam pewarisan / inheritance untuk memaksakan implementasi method abstarct yg sama untuk class turunannya. Class abstract di awali keyword abstract berisi properti yg juga abstract. Semua class turunan harus mengimplementasi method abstarct yg ada di class abstract. Class abstract boleh memiliki property / method regular, serta static method. Konsep class abstract merepresentasikan ide atau konsep dasar pada object oriented programming. Dengan menggunakan class abstract dapat mempermudah pengerjaan tim serta sentra logic.</p>
+
+
+
 <br>
 <h3>12. Autoloding</h3>
+
 <br>
 <h3>13. Namespace</h3>
 <br>
