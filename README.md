@@ -1,5 +1,6 @@
 ![sahabatbelajar – 7](https://user-images.githubusercontent.com/50074126/88798051-797e2600-d1ce-11ea-804d-a8d0a496798b.png)
 
+
 <h1>Object Oriented Pada PHP</h1>
 <p></p>
 <br>
@@ -27,7 +28,10 @@ Penggunaan setter dan getter terdapat pada saat kita menghindarai visibility pub
 <br>
 <h3>9. Static Keyword</h3>
 <p><b>Static keyword</b> merupakan akses property dan method dalam konteks class, dengan menggunakan keyword <i>static<i> instansiasi dapat langsung dilakukan. penggunaanya menggunakan tanda '::' diawali nama class dan diakhiri dengan property serta method</p>
-![carbon](https://user-images.githubusercontent.com/50074126/88804796-9ddf0000-d1d8-11ea-9512-c58b1dac7446.png)
+
+![carbon](https://user-images.githubusercontent.com/50074126/88805683-a84dc980-d1d9-11ea-82ab-b6a3e966cf0a.png)
+
+
 <br>
 <h3>10. Constant</h3>
 <br>
