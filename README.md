@@ -52,9 +52,7 @@ Penggunaan setter dan getter terdapat pada saat kita menghindarai visibility pub
 <br>
 <h3>13. Autoloding</h3>
 <p><b>Autoloading </b>adalah proses pemanggilan class atau file tanpa harus menggunakan perintah require, atau proses pemanggilannya secara otomatis.</p>
-
-
-
 <br>
 <h3>14. Namespace</h3>
+<p><b>Namespace</b> adalah sebuah cara untuk mengelompokkan program ke dalam sebuah package tersendiri atau disebut juga encapsulation. kenapa dilakukan namespace, karena php tidak mengijinkan dalam 1 program mempunyai class yg sama.</p>
 <br>
