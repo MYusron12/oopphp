@@ -43,8 +43,18 @@ Penggunaan setter dan getter terdapat pada saat kita menghindarai visibility pub
 
 
 <br>
-<h3>12. Autoloding</h3>
-<p></p>
+<h3>12. Interface</h3>
+<p><b>Interface</b> adalah sebuah class abstract yg sama sekali tidak memiliki implementasi. Interface merupakan class yang murni template untuk class turunannya, lalu interface tidak memiliki property hanya deklarasi method saja yang harus menggunakan visibility public. interface boleh mendeklarasikan magic method berupa construct "__construct()". Satu class boleh mengimplementasikan banyak interface.</p>
+
+![carbon (2)](https://user-images.githubusercontent.com/50074126/88920776-9af71480-d297-11ea-8fb5-8d1c8f42c896.png)
+
+
 <br>
-<h3>13. Namespace</h3>
+<h3>13. Autoloding</h3>
+<p><b>Autoloading </b>adalah proses pemanggilan class atau file tanpa harus menggunakan perintah require, atau proses pemanggilannya secara otomatis.</p>
+
+
+
+<br>
+<h3>14. Namespace</h3>
 <br>
