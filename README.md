@@ -2,8 +2,25 @@
 
 
 <h1>Object Oriented Pada PHP</h1>
-<p></p>
+<p><b>OOP</b> atau Object Oriented Programming adalah metode pemrograman berorientasi object, dimana semua element yg ada dalam struktur program merupakan object kemudia object-object tersebut akan bisa dipakai berulang ulang kali di dalam programnya. Kenapa harus object oriented, karena ketika program yang akan kita buat yang nantinya akan menjadi besar maka hanya diperlukan beberapa object saja yg bisa diterapkan di banyak model, controller, serta view. bahkan jika kita hanya mempunyai satu function, dan function itu akan digunakan di banyak view maka kita tinggal meload/ memanggilnya saja. Contoh ketika kita membuat sebuah sidebar dan akan digunakan untuk view admin juga user, maka kita hanya butuh menampung sidebar tersebut di controller kemudian tinggal kita load di view admin ataupun user saat dipakai. Selain itu Object Oriented Programming juga merupakan sebuah paradigma pemrograman, dimana konsep ini banyak dipakai di framework. Banyak bahasa pemrograman yg menggunakan konsep oop, karena nyama digunakan untuk berkolaborasi antar programmer serta lingkup pengembangan object oriented sangat luas bahkan berkembang pesat.
+
+karakteristik Object Oriented programming : 
+- penyusunan semua data dan kode program sebagai object
+- Object adalah unit dasar dari program
+- Object menyipan data dan perilaku
+- Object bisa saling berinteraksi
+
+kelebihan Object Oriented :
+- Representasi dunia nyata
+- Enkapsulasi & abstraksi data
+-reusability
+- skalability & ekstensibility
+- kemudahan pengelolaan, kolabirasi
+- digunakan oleh framework.
+</p>
 <br>
+
+<h2>Beberapa istilah dalam Object Oriented Programming</h2>
 <h3>1. Class dan Object</h3>
 <p><b>Class </b>merupakan template dari <b>Object</b>. </p>
 <br>
