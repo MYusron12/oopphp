@@ -22,7 +22,11 @@ kelebihan Object Oriented :
 
 <h2>Beberapa istilah dalam Object Oriented Programming</h2>
 <h3>1. Class dan Object</h3>
-<p><b>Class </b>merupakan template dari <b>Object</b>. </p>
+<p><b>Class </b>merupakan template dari <b>Object</b>. Penggunaan class sangat erat kaitannya dengan object, ketika kita membuat sebuah class dan akan memakainya maka kita harus menginstansiasi atau membuatnya sebagai object. Pembuatan class di awali dengan keyword class kemudian nama class diwalai huruf besar, lalu kurung krawal buka dan kurung kurawal tutup, didalam kurung kurawal dapat diberikan method dan properti yang artinya class tersebut dapat melakukan apa yang ada pada properti dan method. pada bagian luar kurung kurawal class, disini kita membuat instansiasi object dengan cara menuliskan variable lalu samadengan dan diikuti dengan keyword new serta nama class nya.</p>
+
+![carbon (3)](https://user-images.githubusercontent.com/50074126/89730360-2165e000-da68-11ea-9ad0-9d77fcfdec92.png)
+
+
 <br>
 <h3>2. Propert dan Method</h3>
 <br>
